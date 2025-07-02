@@ -17,7 +17,6 @@ Open-source or personal **web development projects** using React, Node.js, and M
 - **Advanced React patterns** and state management tools like Redux and Context API
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/snigdha-deb11) 
 
@@ -62,5 +61,11 @@ Open-source or personal **web development projects** using React, Node.js, and M
 
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=snigdhadeb11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=snigdhadeb11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
