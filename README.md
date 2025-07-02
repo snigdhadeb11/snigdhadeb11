@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A MERN stack e-commerce platform, refining backend APIs and building responsive UI with Tailwind and shadcn/ui. Also experimenting with physics-based simulations using Unity for educational tools.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, especially those using React, Node.js, or MongoDB. Also open to game development collabs using Unity and C#.<br><br>🤔 I’m looking for help with<br>Advanced ML model tuning, Unity optimization, and real-world project deployment strategies. Always eager to learn from experienced developers!<br><br>🌱 I’m currently learning<br>Machine Learning fundamentals and Cyber Security (text classification, spam filters)<br><br>Cloud deployment (AWS basics)<br><br>Advanced React and state management<br><br>
+### **💫 About Me**
+
+🔭 **I’m currently working on**  
+A full-stack **MERN e-commerce platform**, optimizing backend APIs and crafting responsive UI using **Tailwind CSS** and **shadcn/ui**. I’m also developing **physics-based simulations in Unity** to create engaging, educational tools.
+
+🤝 **I’m looking to collaborate on**  
+Open-source or personal **web development projects** using React, Node.js, and MongoDB. I’m also excited to collaborate on **game development projects** using **Unity and C#**.
+
+🤔 **I’m looking for help with**  
+- **Advanced machine learning model tuning**  
+- **Cloud deployment strategies** for real-world applications
+
+🌱 **I’m currently learning**  
+- **Machine Learning** (spam classification, NLP basics)  
+- **Cybersecurity fundamentals**  
+- **AWS cloud deployment**  
+- **Advanced React patterns** and state management tools like Redux and Context API
+
 
 
 ## 🌐 Socials:
